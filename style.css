@@ -1,0 +1,28 @@
+header {
+    background-color: lightblue;
+}
+
+.border2 {
+    border: 1px solid black;
+}
+
+.btn-lightBlue {
+    background-color: lightblue;
+}
+
+#id-card {
+    display: none;
+}
+
+.outer-div {
+    height: 250px; 
+    border: 10px solid #fceeb5;
+}
+
+.inner-div {
+    background-color: lightgreen;
+}
+
+#icon {
+    font-size: 7em;
+}
